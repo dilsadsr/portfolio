@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"I'm Dilsad Sera",
+    "description":"Interested in working together ?",
+    "description2":"Let's have a talk. ",
+    "image":"profilepic.jpg",
+    "bio":" I am a full-stack developer, part-time traveller. Love to solve problems.", 
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "dilsadsera@gmail.com",
+    "phone": "+90 541 379 44 41",
+    "github":"https://github.com/dilsadsr",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Atakoy",
+      "city":"Bakırköy/ Istanbul",
+      "state":"TURKEY",
+      "zip": "34158"
+    },
+    "website": "http://www.dilsadsera.com",
+    "resumedownload":"http://dilsadsera.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dlsdsr",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/dilsadsera",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dilsadsera/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dilsadsera/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dilsadsr",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Kent State University",
+        "degree":"Master Degree in Department of Computer Science",
+        "graduated":"Dec 2013",
+        "description":"Cumulative GPA is 3.7/4.0"
+      },
+      {
+        "school":"Cankaya University",
+        "degree":"Computer Engineering in Engineering and Architecture Department",
+        "graduated":"July 2011",
+        "description":"Graduated as a Honor student. (GPA is 3.05/4.0)"
+      },
+      {
+        "school":"Yuce Science High School",
+        "graduated":"July 2006",
+        "description":"Awarded a scholarship (GPA is 4.96/5.0)"
+      }
+    ],
+    "work":[
+      {
+        "company":"LC Waikiki",
+        "title":"Software Engineer ",
+        "years":"August 2018 - Present",
+        "description":"HR Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Ericsson",
+        "title":"Software Developer",
+        "years":"May 2015 – June 2018",
+        "description":"ARGE Telecom CRM Project; Development & Troubleshooting, Development of Various Business Interactions and Order Processes, Charging System & Billing System Integration with TCRM, Increase Performance of Microsoft Dynamics CRM,TCRM Customization and configuration"
+      },
+      {
+        "company":"Krizma Software",
+        "title":"Software Developer",
+        "years":"Feb 2014 – March 2015",
+        "description":"I worked as a software engineer in full of life cycle of software development process including requirements gathering, designs, coding, testing, debugging and maintenance."
+      },
+      {
+        "company":"Kent State University IT Help Desk",
+        "title":"User Support Analyst",
+        "years":"2012 – 2013 ",
+        "description":"Performed diagnostic and handled technical troubleshooting of system issues; Configuring and troubleshooting enterprise wireless network. WPA2 Enterprise,Authentication,Configuring and troubleshooting Cisco Any Connect VPN clients.General support about Office and Graphics programs."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
