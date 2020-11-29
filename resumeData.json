@@ -5,13 +5,13 @@
     "description2":"Let's have a talk. ",
     "image":"profilepic.jpg",
     "bio":" I am a full-stack developer, part-time traveller. Love to solve problems.", 
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"If you have some cool project to work on, just send me direct message or contact me through social sites listed below.",
     "email": "dilsadsera@gmail.com",
     "phone": "+90 541 379 44 41",
     "github":"https://github.com/dilsadsr",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"Atakoy",
+      "street":"",
       "city":"Bakırköy/ Istanbul",
       "state":"TURKEY",
       "zip": "34158"
@@ -47,7 +47,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Kent State University",
@@ -59,12 +58,12 @@
         "school":"Cankaya University",
         "degree":"Computer Engineering in Engineering and Architecture Department",
         "graduated":"July 2011",
-        "description":"Graduated as a Honor student. (GPA is 3.05/4.0)"
+        "description":"Cumulative GPA is 3.05/4.0, Graduation With Honors"
       },
       {
         "school":"Yuce Science High School",
         "graduated":"July 2006",
-        "description":"Awarded a scholarship (GPA is 4.96/5.0)"
+        "description":"Cumulative GPA is 4.96/5.0, Awarded a scholarship."
       }
     ],
     "work":[
@@ -89,18 +88,37 @@
       {
         "company":"Kent State University IT Help Desk",
         "title":"User Support Analyst",
-        "years":"2012 – 2013 ",
-        "description":"Performed diagnostic and handled technical troubleshooting of system issues; Configuring and troubleshooting enterprise wireless network. WPA2 Enterprise,Authentication,Configuring and troubleshooting Cisco Any Connect VPN clients.General support about Office and Graphics programs."
+        "years":"2012 – 2013",
+        "description":"Performed diagnostic and handled technical troubleshooting of system issues. Configuring and troubleshooting enterprise wireless network. WPA2 Enterprise Authentication. Configuring and troubleshooting Cisco Any Connect VPN clients. General support about Office and Graphics programs."
       }
-    ],
+    ]
+  },
+  "skills":{
+    "skillmessage":"Here you can check which technologies and languages that I used before",
     "skills":[
       {
         "name":"C#",
         "level":"80%"
       },
       {
-        "name":"Angular",
+        "name":"LINQ",
+        "level":"60%"
+      },
+      {
+        "name":".NET",
         "level":"80%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Dynamic CRM",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -113,6 +131,22 @@
       {
         "name":"SQL",
         "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"TFS",
+        "level":"80%"
+      },
+      {
+        "name":"JIRA",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Azure",
+        "level":"70%"
       }
     ]
   },
