@@ -9,7 +9,6 @@
     "email": "dilsadsera@gmail.com",
     "phone": "+90 541 379 44 41",
     "github":"https://github.com/dilsadsr",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"",
       "city":"Bakırköy/ Istanbul",
@@ -71,19 +70,19 @@
         "company":"LC Waikiki",
         "title":"Software Engineer ",
         "years":"August 2018 - Present",
-        "description":"HR Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Working as Software Engineer in Lcwaikiki on Timemanagement Systems; Leave, Shift, StorePayroll, Overtime"
       },
       {
         "company":"Ericsson",
         "title":"Software Developer",
         "years":"May 2015 – June 2018",
-        "description":"ARGE Telecom CRM Project; Development & Troubleshooting, Development of Various Business Interactions and Order Processes, Charging System & Billing System Integration with TCRM, Increase Performance of Microsoft Dynamics CRM,TCRM Customization and configuration"
+        "description":"Worked as Software Developer in R&D - Ericsson Telecom CRM call center product which is integrated with Billing and Charching System."
       },
       {
         "company":"Krizma Software",
         "title":"Software Developer",
         "years":"Feb 2014 – March 2015",
-        "description":"I worked as a software engineer in full of life cycle of software development process including requirements gathering, designs, coding, testing, debugging and maintenance."
+        "description":"Worked as a Full-stack Developer in Hotel Reservation, Natural Gas Transmission System, National Neonatal Screening System"
       },
       {
         "company":"Kent State University IT Help Desk",
